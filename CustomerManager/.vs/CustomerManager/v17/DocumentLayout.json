@@ -3,10 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\tracy\\source\\repos\\bank_application\\CustomerManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{398FF35B-4207-4DC3-9E32-1DD0C1A3BA47}|CustomerManager.csproj|c:\\users\\tracy\\source\\repos\\bank_application\\customermanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398FF35B-4207-4DC3-9E32-1DD0C1A3BA47}|CustomerManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tracy\\Downloads\\BANK_CUSTOMER_MANAGEMENT-main\\BANK_CUSTOMER_MANAGEMENT-main\\CustomerManager\\EverydayForm1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{398FF35B-4207-4DC3-9E32-1DD0C1A3BA47}|CustomerManager.csproj|c:\\users\\tracy\\source\\repos\\bank_application\\customermanager\\everydayaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{398FF35B-4207-4DC3-9E32-1DD0C1A3BA47}|CustomerManager.csproj|C:\\Users\\tracy\\source\\repos\\bank_application\\CustomerManager\\everydayaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{398FF35B-4207-4DC3-9E32-1DD0C1A3BA47}|CustomerManager.csproj|solutionrelative:everydayaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -82,19 +86,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tracy\\source\\repos\\bank_application\\CustomerManager\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tracy\\source\\repos\\bank_application\\CustomerManager\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T02:20:38.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "EverydayForm1.cs",
               "DocumentMoniker": "C:\\Users\\tracy\\Downloads\\BANK_CUSTOMER_MANAGEMENT-main\\BANK_CUSTOMER_MANAGEMENT-main\\CustomerManager\\EverydayForm1.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\BANK_CUSTOMER_MANAGEMENT-main\\BANK_CUSTOMER_MANAGEMENT-main\\CustomerManager\\EverydayForm1.cs",
               "ToolTip": "C:\\Users\\tracy\\Downloads\\BANK_CUSTOMER_MANAGEMENT-main\\BANK_CUSTOMER_MANAGEMENT-main\\CustomerManager\\EverydayForm1.cs",
               "RelativeToolTip": "..\\..\\..\\..\\Downloads\\BANK_CUSTOMER_MANAGEMENT-main\\BANK_CUSTOMER_MANAGEMENT-main\\CustomerManager\\EverydayForm1.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAADwv3cAAABUAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvyQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-25T01:41:38.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EverydayAccount.cs",
               "DocumentMoniker": "C:\\Users\\tracy\\source\\repos\\bank_application\\CustomerManager\\EverydayAccount.cs",
               "RelativeDocumentMoniker": "EverydayAccount.cs",
@@ -102,12 +119,11 @@
               "RelativeToolTip": "EverydayAccount.cs",
               "ViewState": "AQIAAC0AAAAAAAAAAAAAAD4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T22:46:45.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T22:46:45.882Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "InvestmentAccounts.cs",
               "DocumentMoniker": "C:\\Users\\tracy\\source\\repos\\bank_application\\CustomerManager\\InvestmentAccounts.cs",
               "RelativeDocumentMoniker": "InvestmentAccounts.cs",
@@ -119,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "OmniAccountException.cs",
               "DocumentMoniker": "C:\\Users\\tracy\\source\\repos\\bank_application\\CustomerManager\\OmniAccountException.cs",
               "RelativeDocumentMoniker": "OmniAccountException.cs",
@@ -131,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "OmniAccounts.cs",
               "DocumentMoniker": "C:\\Users\\tracy\\source\\repos\\bank_application\\CustomerManager\\OmniAccounts.cs",
               "RelativeDocumentMoniker": "OmniAccounts.cs",
@@ -143,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "BankAccounts.cs",
               "DocumentMoniker": "C:\\Users\\tracy\\source\\repos\\bank_application\\CustomerManager\\BankAccounts.cs",
               "RelativeDocumentMoniker": "BankAccounts.cs",
@@ -155,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\tracy\\source\\repos\\bank_application\\CustomerManager\\Customer.cs",
               "RelativeDocumentMoniker": "Customer.cs",
@@ -167,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CustomersController.cs",
               "DocumentMoniker": "C:\\Users\\tracy\\source\\repos\\bank_application\\CustomerManager\\CustomersController.cs",
               "RelativeDocumentMoniker": "CustomersController.cs",
@@ -179,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "EverydayForm1.cs",
               "DocumentMoniker": "C:\\Users\\tracy\\source\\repos\\bank_application\\CustomerManager\\EverydayForm1.cs",
               "RelativeDocumentMoniker": "EverydayForm1.cs",
@@ -191,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "OmniForm3.cs",
               "DocumentMoniker": "C:\\Users\\tracy\\source\\repos\\bank_application\\CustomerManager\\OmniForm3.cs",
               "RelativeDocumentMoniker": "OmniForm3.cs",
@@ -203,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "frmCatalog.cs [Design]",
               "DocumentMoniker": "C:\\Users\\tracy\\source\\repos\\bank_application\\CustomerManager\\frmCatalog.cs",
               "RelativeDocumentMoniker": "frmCatalog.cs",
@@ -214,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "frmCatalog.cs",
               "DocumentMoniker": "C:\\Users\\tracy\\source\\repos\\bank_application\\CustomerManager\\frmCatalog.cs",
               "RelativeDocumentMoniker": "frmCatalog.cs",
@@ -226,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "InvestmentForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\tracy\\source\\repos\\bank_application\\CustomerManager\\InvestmentForm.cs",
               "RelativeDocumentMoniker": "InvestmentForm.cs",
@@ -237,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "InvestmentForm.cs",
               "DocumentMoniker": "C:\\Users\\tracy\\source\\repos\\bank_application\\CustomerManager\\InvestmentForm.cs",
               "RelativeDocumentMoniker": "InvestmentForm.cs",
@@ -249,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "OmniForm3.cs [Design]",
               "DocumentMoniker": "C:\\Users\\tracy\\source\\repos\\bank_application\\CustomerManager\\OmniForm3.cs",
               "RelativeDocumentMoniker": "OmniForm3.cs",
@@ -260,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "frmAddAccount.cs [Design]",
               "DocumentMoniker": "C:\\Users\\tracy\\source\\repos\\bank_application\\CustomerManager\\frmAddAccount.cs",
               "RelativeDocumentMoniker": "frmAddAccount.cs",
@@ -271,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "CustomersView.cs [Design]",
               "DocumentMoniker": "C:\\Users\\tracy\\source\\repos\\bank_application\\CustomerManager\\CustomersView.cs",
               "RelativeDocumentMoniker": "CustomersView.cs",
