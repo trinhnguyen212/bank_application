@@ -28,7 +28,7 @@ namespace CustomerManager
             //  IList customers = new ArrayList();
              List<Customer> customers= new List<Customer>();
             customers.Add(new Customer("Tracy", "Nguyen", "Vietnamese", Customer.StaffStatus.Staff));
-            customers.Add(new Customer("Tim", "Kapoor", "USA", Customer.StaffStatus.Staff));
+            customers.Add(new Customer("Tim", "Kapoor", "USA", Customer.StaffStatus.NonStaff));
             customers.Add(new Customer("Steven", "Song", "Canadian", Customer.StaffStatus.NonStaff));
 
             CustomersController controller = new CustomersController(view,customers);
